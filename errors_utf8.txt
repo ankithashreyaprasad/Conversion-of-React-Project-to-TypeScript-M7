@@ -1,0 +1,5 @@
+﻿src/app/hooks.ts(2,10): error TS1484: 'TypedUseSelectorHook' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/features/cartSlice.ts(2,23): error TS1484: 'PayloadAction' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/features/cartSlice.ts(3,10): error TS1484: 'Product' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/features/productSlice.ts(2,41): error TS1484: 'PayloadAction' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/features/productSlice.ts(2,41): error TS6133: 'PayloadAction' is declared but its value is never read.
